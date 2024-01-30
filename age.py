@@ -1,0 +1,5 @@
+by = input('Birth year: ')
+print(type(by))
+age = 2024 - int(by)
+print(type(age))
+print(age)
